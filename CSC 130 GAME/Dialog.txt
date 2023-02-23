@@ -1,0 +1,5 @@
+string1*Berty: 'Wha... Where am I? Whats happening?'
+string2*Berty: 'Seems like this chest is locked.... I also don't have hands to open it...'
+string3*Berty: 'It's not a boulder.... It's a rock....'
+string4*Berty: 'These walls are pretty sturdy'
+string5*Berty: 'Press space to Interact'
