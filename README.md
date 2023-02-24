@@ -5,16 +5,16 @@ Our professor provided a "Bare bones" game engine that he wrote and we were in c
 along with player movement and object collision/ interaction.
 
 Files I was in charge of writing:
-  BoundingBox.Java
-  Entity.Java
-  HashChain.Java
-  HashMap.Java
+  BoundingBox.Java,
+  Entity.Java,
+  HashChain.Java,
+  HashMap.Java,
   Vector2D.java
   
   
 Files I had to build upon to make work
-  Main.Java
-  KeyProcessor.Java
+  Main.Java,
+  KeyProcessor.Java,
   spriteInfo.Java
 
 
